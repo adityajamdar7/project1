@@ -1,0 +1,3 @@
+ec2-user    3997  0.0  0.2 222312  2020 pts/0    T    05:25   0:00 grep httpd
+ec2-user    4070  0.0  0.2 222312  2012 pts/0    T    05:27   0:00 grep httpd
+ec2-user    4140  0.0  0.2 222312  2000 pts/0    S+   05:29   0:00 grep httpd
